@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		1368FD4A2D596D82001FF07F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1368FD492D596D82001FF07F /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		1368FD2D2D596C72001FF07F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		1368FD172D596C70001FF07F /* place.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = place.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1368FD2C2D596C72001FF07F /* placeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = placeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1368FD362D596C72001FF07F /* placeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = placeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1368FD492D596D82001FF07F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				1368FD2F2D596C72001FF07F /* placeTests */,
 				1368FD392D596C72001FF07F /* placeUITests */,
 				1368FD182D596C70001FF07F /* Products */,
+				1368FD492D596D82001FF07F /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1368FD4A2D596D82001FF07F /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
